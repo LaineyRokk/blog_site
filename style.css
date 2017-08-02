@@ -1,0 +1,12 @@
+div.intro {
+  color: crimson;
+  font-style: oblique;
+  font-family: monospace;
+}
+
+div.classy {
+  color: green;
+  font-family: cursive;
+  font-style: italic;
+
+}
